@@ -441,6 +441,7 @@
                 .right {
                     width: 100%;
                     background: transparent url(image/elep.png) 80% 50% no-repeat padding-box;
+                           background-color: white;
                 }
                 .heading {
                     font-size: 17px;
